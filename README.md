@@ -47,5 +47,5 @@ The notebook uses pandas, numpy, scipy, scikit-learn, matplotlib and seaborn.
 - Mohamed Amine DOUAH
 - Givi KVARATSKHELIYA
 - Eva BAGAEVA
-- Yashwanth NAGESH
+- Yashwanth Chamanahalli NAGESH
 - Darryl Krystale MEHOHI
