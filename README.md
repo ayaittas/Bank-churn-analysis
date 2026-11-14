@@ -35,7 +35,7 @@ The dataset is the [Churn Modelling dataset from Kaggle](https://www.kaggle.com/
 
 ## How to run the notebook
 
-1. Open `Bank_Churn_Group_Project.ipynb` in Google Colab or Jupyter.
+1. Open `Bank_Churn_Group_Project.ipynb` in Google Colab.
 2. Put `Churn_Modelling.csv` in the same folder. In Colab, upload it in the Files panel or use the two commented lines of the second code cell.
 3. Run all the cells.
 
@@ -43,7 +43,9 @@ The notebook uses pandas, numpy, scipy, scikit-learn, matplotlib and seaborn.
 
 ## Team members
 
-- Aya Ittas
-- [Name 2]
-- [Name 3]
-- [Name 4]
+- Aya ITTAS
+- Mohamed Amine DOUAH
+- Givi KVARATSKHELIYA
+- Eva BAGAEVA
+- Yashwanth NAGESH
+- Darryl Krystale MEHOHI
