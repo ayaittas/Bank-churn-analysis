@@ -39,7 +39,6 @@ The dataset is the [Churn Modelling dataset from Kaggle](https://www.kaggle.com/
 2. Put `Churn_Modelling.csv` in the same folder. In Colab, upload it in the Files panel or use the two commented lines of the second code cell.
 3. Run all the cells.
 
-The notebook uses pandas, numpy, scipy, scikit-learn, matplotlib and seaborn.
 
 ## Team members
 
