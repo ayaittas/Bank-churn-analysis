@@ -58,16 +58,6 @@ Our results show associations and not causes, and the dataset is a snapshot, so 
 3. Run all the cells.
 
 
-## Team members 
-
-•⁠  ⁠Aya ITTAS 
-•⁠  ⁠Mohamed Amine DOUAH 
-•⁠  ⁠Givi KVARATSKHELIYA 
-•⁠  ⁠Eva BAGAEVA 
-•⁠  ⁠Yashwanth Chamanahalli NAGESH 
-•⁠  ⁠Darryl Krystale MEHOHI 
-
-
 ## Team members
 
 Click on each name to open the member's LinkedIn profile.
