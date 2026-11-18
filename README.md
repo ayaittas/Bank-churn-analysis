@@ -17,14 +17,14 @@ The dataset is the [Churn Modelling dataset from Kaggle](https://www.kaggle.com/
 
 ## Technologies used
 
-•⁠  ⁠*Python* for all the analysis
-•⁠  ⁠*Google Colab* to write and run the notebook
-•⁠  ⁠*pandas* and *numpy* to load, clean and prepare the data
-•⁠  ⁠*scipy* for the probabilities, confidence intervals and hypothesis tests
-•⁠  ⁠*scikit-learn* for the logistic regression and the random forest
-•⁠  ⁠*matplotlib* and *seaborn* for the charts
-•⁠  ⁠*Kaggle* for the dataset
-•⁠  ⁠*GitHub* to store and share the project
+-  ⁠*Python* for all the analysis
+-  ⁠*Google Colab* to write and run the notebook
+-  ⁠*pandas* and *numpy* to load, clean and prepare the data
+-  ⁠*scipy* for the probabilities, confidence intervals and hypothesis tests
+-  ⁠*scikit-learn* for the logistic regression and the random forest
+-  *matplotlib* and *seaborn* for the charts
+-  *Kaggle* for the dataset
+-  *GitHub* to store and share the project
 
 ## Methods
 
