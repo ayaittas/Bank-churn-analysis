@@ -47,8 +47,10 @@ The dataset is the [Churn Modelling dataset from Kaggle](https://www.kaggle.com/
 ## Conclusion
 
 One customer in five left the bank. The typical leaver is older, more often a woman, more often German, less active, and holds either a single product or more than two. Our hypothesis tests confirm that age, balance, country, gender, activity and number of products are significantly linked to churn, while salary, tenure and credit card are not.
+
 Churn can be partly predicted. The random forest is right for 86% of the customers and age is the main predictor in every model.
 We recommend the bank to focus first on customers older than 50, to investigate why German customers leave twice as often, to reactivate inactive members, and to look closely at customers with 3 or 4 products, since almost all of them left.
+
 Our results show associations and not causes, and the dataset is a snapshot, so we could not study churn over time.
 
 ## How to run the notebook
