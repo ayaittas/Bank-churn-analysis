@@ -44,6 +44,13 @@ The dataset is the [Churn Modelling dataset from Kaggle](https://www.kaggle.com/
 - Salary, tenure and credit card are not linked to churn.
 - The random forest reaches an accuracy of 86% on the test set and finds 46% of the leavers.
 
+
+
+  ![Churn rate by customer group](churn_by_group.png)
+  
+
+  
+
 ## Conclusion
 
 One customer in five left the bank. The typical leaver is older, more often a woman, more often German, less active, and holds either a single product or more than two. Our hypothesis tests confirm that age, balance, country, gender, activity and number of products are significantly linked to churn, while salary, tenure and credit card are not.
