@@ -66,8 +66,7 @@ Click on each name to open the member's LinkedIn profile.
   <li><a href="https://www.linkedin.com/in/aya-ittas">Aya ITTAS</a></li>
   <li><a href="https://www.linkedin.com/in/mrdouah">Mohamed Amine DOUAH</a></li>
   <li><a href="https://www.linkedin.com/in/givi-kvaratskheliya-14a350342">Givi KVARATSKHELIYA</a></li>
-  <li>Eva BAGAEVA</li>
+  <li><a href="https://www.linkedin.com/in/eva-bagaeva-972464450">Eva BAGAEVA</a></li>
   <li><a href="https://www.linkedin.com/in/yashwanth-chamanahalli-nagesh-698517342">Yashwanth Chamanahalli NAGESH</a></li>
   <li><a href="https://www.linkedin.com/in/darryl-krystale-mehohi-514a98225">Darryl Krystale MEHOHI</a></li>
 </ul>
-
