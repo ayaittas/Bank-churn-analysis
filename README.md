@@ -15,6 +15,17 @@ We study the churn of 10,000 customers of a European retail bank present in Fran
 
 The dataset is the [Churn Modelling dataset from Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling).
 
+## Technologies used
+
+•⁠  ⁠*Python* for all the analysis
+•⁠  ⁠*Google Colab* to write and run the notebook
+•⁠  ⁠*pandas* and *numpy* to load, clean and prepare the data
+•⁠  ⁠*scipy* for the probabilities, confidence intervals and hypothesis tests
+•⁠  ⁠*scikit-learn* for the logistic regression and the random forest
+•⁠  ⁠*matplotlib* and *seaborn* for the charts
+•⁠  ⁠*Kaggle* for the dataset
+•⁠  ⁠*GitHub* to store and share the project
+
 ## Methods
 
 - Data cleaning and descriptive statistics
@@ -33,6 +44,13 @@ The dataset is the [Churn Modelling dataset from Kaggle](https://www.kaggle.com/
 - Salary, tenure and credit card are not linked to churn.
 - The random forest reaches an accuracy of 86% on the test set and finds 46% of the leavers.
 
+## Conclusion
+
+One customer in five left the bank. The typical leaver is older, more often a woman, more often German, less active, and holds either a single product or more than two. Our hypothesis tests confirm that age, balance, country, gender, activity and number of products are significantly linked to churn, while salary, tenure and credit card are not.
+Churn can be partly predicted. The random forest is right for 86% of the customers and age is the main predictor in every model.
+We recommend the bank to focus first on customers older than 50, to investigate why German customers leave twice as often, to reactivate inactive members, and to look closely at customers with 3 or 4 products, since almost all of them left.
+Our results show associations and not causes, and the dataset is a snapshot, so we could not study churn over time.
+
 ## How to run the notebook
 
 1. Open `Bank_Churn_Group_Project.ipynb` in Google Colab.
@@ -40,11 +58,26 @@ The dataset is the [Churn Modelling dataset from Kaggle](https://www.kaggle.com/
 3. Run all the cells.
 
 
+## Team members 
+
+•⁠  ⁠Aya ITTAS 
+•⁠  ⁠Mohamed Amine DOUAH 
+•⁠  ⁠Givi KVARATSKHELIYA 
+•⁠  ⁠Eva BAGAEVA 
+•⁠  ⁠Yashwanth Chamanahalli NAGESH 
+•⁠  ⁠Darryl Krystale MEHOHI 
+
+
 ## Team members
 
-- Aya ITTAS
-- Mohamed Amine DOUAH
-- Givi KVARATSKHELIYA
-- Eva BAGAEVA
-- Yashwanth Chamanahalli NAGESH
-- Darryl Krystale MEHOHI
+Click on each name to open the member's LinkedIn profile.
+
+<ul>
+  <li><a href="https://www.linkedin.com/in/aya-ittas">Aya ITTAS</a></li>
+  <li><a href="https://www.linkedin.com/in/mrdouah">Mohamed Amine DOUAH</a></li>
+  <li><a href="https://www.linkedin.com/in/givi-kvaratskheliya-14a350342">Givi KVARATSKHELIYA</a></li>
+  <li>Eva BAGAEVA</li>
+  <li><a href="https://www.linkedin.com/in/yashwanth-chamanahalli-nagesh-698517342">Yashwanth Chamanahalli NAGESH</a></li>
+  <li><a href="https://www.linkedin.com/in/darryl-krystale-mehohi-514a98225">Darryl Krystale MEHOHI</a></li>
+</ul>
+
